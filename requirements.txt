@@ -1,0 +1,8 @@
+streamlit 
+Textblob 
+pandas
+altair
+vaderSentiment
+plotly
+wordcloud 
+matplotlib
